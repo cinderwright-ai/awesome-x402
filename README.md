@@ -351,6 +351,7 @@ Real-world use cases and implementation patterns. The x402 protocol has seen **1
 
 Enable AI agents to make autonomous payments.
 - [Strale MCP Server](https://api.strale.io/mcp) - 250+ business data and compliance tools for AI agents via MCP. IBAN validation, VAT format checks, sanctions screening, company lookups, SSL certificate checks, domain reputation, and more. Each capability independently tested with quality scores. x402 USDC micropayments on Base. Also available as REST API.
+Cinderwright - 900+ pay-per-use data services for AI agents via a single natural-language proxy. Weather, finance, GitHub stats, DNS, IP geolocation, Wikipedia, crypto prices, science, health, food, sports, music, trivia and more. $0.001-$0.01 USDC per call. Free $0.10 trial key, no wallet required: `POST https://api.ideafactorylab.org/proxy/keygen`. ([OpenAPI](https://api.ideafactorylab.org/openapi.json)) ([Catalog](https://api.ideafactorylab.org/discover)) ([MCP](https://api.ideafactorylab.org/.well-known/mcp.json)) ([GitHub](https://github.com/cinderwright-ai/cinderwright-api))
 
 ### GPU Inference APIs
 
